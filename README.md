@@ -1,6 +1,3 @@
-this is a html radio custom / web component.
-
-this is a html radio custom / web component.
 
 Steps to test:
 
@@ -34,4 +31,4 @@ Steps to test:
 </div>
 </body>
 
-4] now for this any of <sh-radio-button> web component is rendered as radio button with its own properties as per properties changes in your master.html
+4] now  this <sh-radio-button> web component is rendered as radio button inside a #shadow dom  with its own properties as per properties you associate in your master.html
